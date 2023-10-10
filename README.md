@@ -1,5 +1,21 @@
 # PC-CONTROL
 
-PC CONTROL BETA program. In the Config folder in the __init__ file.py you need to specify the bot token in the token variable that you received in the bot @BotFather. You can also add your own commands, make your own versions. thank you!
+English:
+PC CONTROL Allows you to control your computer directly from your phone, from anywhere in the world. Only a telegram is needed. Check the releases on the right. 
 
-Программа PC CONTROL BETA. В папке Config в файле __init__.py нужно в переменой token указать токен бота который вы получили в боте @BotFather. Можно так-же добавлять свои комманды, делать свои версии. СПАСИБО ТЕБЕ!
+Instruction manual:
+-Run the Change file Token.exe
+-Get a token in the bot @BotFather
+-Insert the received token into the program and press Enter.
+-After the download is finished, run the file PC_Control.exe .
+Use it!
+
+Russia:
+PC CONTROL Позволяет управлять компьютером прямо с телефона, с любой точки мира. Нужен только телеграмм. Проверяй релизы справа. 
+
+Инструкция:
+-Запустите файл Change Token.exe
+-Получите токен в боте @BotFather
+-Вставьте полученный токен в программу и нажми Enter.
+-После окончания загрузки запусти файл PC_Control.exe.
+Пользуйся!
